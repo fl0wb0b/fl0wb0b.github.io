@@ -2,10 +2,10 @@ primary_name: "Katharina Klee"
 secondary_name: "Kindertagesplege"
 navbar_name: "Der Fuchsbau"
 
-positions:
-- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-  name: Position 1 with logo
-- name: Position 2 without logo
+#positions:
+#- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+#  name: Position 1 with logo
+#- name: Position 2 without logo
 
 
 email: "info@der-fuchsbau.net"
